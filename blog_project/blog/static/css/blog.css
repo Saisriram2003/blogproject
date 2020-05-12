@@ -1,0 +1,68 @@
+.custom-navbar{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.post{
+  color: #b2dbbf;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+.centerstage{
+  margin: auto;
+}
+.abouttext{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+}
+.allfont{
+  font-size: 1.5em;
+  background-color: #6d6875;
+}
+.custon-navbar{
+  font-size: 2em;
+
+}
+.posttitle{
+  font-size: 3em;
+  text-align: center;
+}
+.postcontent{
+  font-size: 1.5em;
+}
+
+.loginform{
+  background: linear-gradient(#6d6875, #b5838d);
+}
+
+.login-box{
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  color: #d8e2dc;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: title;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 70px;
+  letter-spacing: 4px;
+  font-family: monospace;
+}
+.mybtn{
+font-size: 15px;
+font-family:monospace;
+width: 100px;
+padding:5px 15px;
+background:#ffcdb2;
+border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 20px;
+text-transform: uppercase;
+
+}
